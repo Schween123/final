@@ -1,0 +1,58 @@
+.keyboard-container {
+  position: fixed;
+  height: 200px; /* Reduced height */
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: #333;
+  padding: 5px; /* Reduced padding */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  animation: slide-up 0.3s ease;
+}
+
+.keyboard {
+  display: grid;
+  grid-template-columns: repeat(10, 1fr); /* Layout for 10 columns */
+  gap: 5px; /* Reduced gap for smaller spacing */
+}
+
+.key {
+  padding: 10px; /* Reduced padding for smaller keys */
+  background-color: #555;
+  color: white;
+  font-size: 14px; /* Adjust font size to fit smaller keys */
+  border: none;
+  border-radius: 3px; /* Smaller border radius */
+  cursor: pointer;
+}
+
+.key:active {
+  background-color: #777;
+}
+
+.space-key {
+  grid-column: span 5; /* Spacebar spans 5 columns for wider width */
+}
+
+.shift-key {
+  grid-column: span 2; /* Shift key spans 2 columns for larger width */
+  background-color: #444;
+}
+
+.shift-key.active {
+  background-color: #888; /* Change color when Shift is active */
+}
+
+.close-btn {
+  margin-left: 500px; /* Adjusted margin to align with smaller keyboard */
+  margin-top: -40px; /* Adjusted to match reduced size */
+  height: 70px; /* Smaller height */
+  padding: 5px 20px; /* Smaller padding for the close button */
+  background-color: #d9534f;
+  color: white;
+  border: none;
+  border-radius: 3px; /* Smaller border radius */
+  cursor: pointer;
+}

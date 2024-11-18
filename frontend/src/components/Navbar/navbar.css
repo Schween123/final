@@ -1,0 +1,73 @@
+.navbar {
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px 71px;
+    position: relative;
+    width: 1320px;
+  }
+  
+  .navbar .logo {
+    height: 120px;
+    object-fit: cover;
+    position: relative;
+    width: 120px;
+  }
+  
+  .navbar .frame {
+    align-items: center;
+    display: flex;
+    flex: 1;
+    flex-grow: 1;
+    gap: 71px;
+    height: 60px;
+    justify-content: flex-end;
+    position: relative;
+  }
+  
+  .navbar .text-wrapper {
+    color: #1985a1;
+    font-family: "Open Sans-Regular", Helvetica;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .navbar .div {
+    color: #1985a1;
+    font-family: "Open Sans-Regular", Helvetica;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: relative;
+    text-align: center;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .navbar .text-wrapper-2 {
+    color: #1985a1;
+    font-family: "Open Sans-Regular", Helvetica;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 30px;
+    margin-top: -1px;
+    position: relative;
+    text-align: center;
+    width: fit-content;
+  }
+  
+  .navbar .line {
+    height: 10px;
+    margin-bottom: -8px;
+    margin-left: -4px;
+    margin-right: -4px;
+    position: relative;
+    width: 1328px;
+  }
+  

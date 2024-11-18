@@ -1,0 +1,13 @@
+.gridlines {
+    position: fixed; /* Ensures it covers the entire viewport */
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 9999; /* Ensure a high z-index to be above other elements */
+    background-size: 22px 22px;
+    background-image: 
+      linear-gradient(to right, rgba(0, 0, 0, 0.2) 1px, transparent 1px),
+      linear-gradient(to bottom, rgba(0, 0, 0, 0.2) 1px, transparent 1px);
+  }
+  

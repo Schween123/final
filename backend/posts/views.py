@@ -1,0 +1,4 @@
+from django.shortcuts import render
+
+# Create your views here.
+#xnd_production_jC970XxFaB72jChQeb7o4gMcATbW3oX0UjIJgn6iSiPuDkrdewGNXuZXIZLYsR

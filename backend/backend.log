@@ -1,0 +1,10 @@
+Watching for file changes with StatReloader
+Performing system checks...
+
+Loaded 10 known faces.
+System check identified no issues (0 silenced).
+November 07, 2024 - 21:14:00
+Django version 4.2.16, using settings 'backend.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+

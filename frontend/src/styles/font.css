@@ -1,0 +1,40 @@
+@font-face {
+    font-display: swap;
+    font-style: normal;
+    src: url("/fonts/BakbakOneRegular.ttf");
+    font-family: "Bakbak One";
+    font-weight: 400;
+}
+
+@font-face {
+    font-display: swap;
+    font-style: normal;
+    src: url("/fonts/MontserratRomanBold.ttf");
+    font-family: "MontserratBold";
+    font-weight: 700;
+}
+
+@font-face {
+    font-display: swap;
+    font-style: normal;
+    src: url("/fonts/OpenSansRomanRegular.ttf");
+    font-family: "Open Sans";
+    font-weight: 400;
+}
+
+
+/*@font-face {
+    font-display: swap;
+    font-style: normal;
+    src: url("/fonts/MontserratRomanRegular.ttf");
+    font-family: "Montserrat";
+    font-weight: 400;
+}*/
+
+@font-face {
+    font-display: swap;
+    font-style: normal;
+    src: url("/fonts/MontserratRomanMedium.ttf");
+    font-family: "Montserrat";
+    font-weight: 500;
+}

@@ -1,0 +1,132 @@
+.dashboard-elements {
+    align-items: center;
+    display: inline-flex;
+    flex-direction: column;
+    gap: 156px;
+    position: relative;
+  }
+  
+  .dashboard-elements .heading {
+    align-items: flex-start;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 18px;
+    position: relative;
+    width: 1306px;
+  }
+  
+  .dashboard-elements .text-wrapper {
+    color: #46494c;
+    font-family: "Open Sans-Regular", Helvetica;
+    font-size: 50px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 30px;
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .dashboard-elements .div {
+    color: #4c5c68;
+    font-family: "Open Sans-Regular", Helvetica;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .dashboard-elements .group {
+    height: 270px;
+    position: relative;
+    width: 1195px;
+  }
+  
+  .dashboard-elements .box {
+    align-items: center;
+    background-color: #4c5c68;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 93px;
+    height: 270px;
+    left: 0;
+    padding: 12px 73px;
+    position: absolute;
+    top: 0;
+    width: 287px;
+  }
+  
+  .dashboard-elements .text-wrapper-2 {
+    color: #ffffff;
+    font-family: "Open Sans-Regular", Helvetica;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 30px;
+    margin-left: -6.5px;
+    margin-right: -6.5px;
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .dashboard-elements .text-wrapper-3 {
+    color: #ffffff;
+    font-family: "Open Sans-Regular", Helvetica;
+    font-size: 70px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 30px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .dashboard-elements .box-2 {
+    align-items: center;
+    background-color: #4c5c68;
+    border-radius: 20px;
+    display: inline-flex;
+    flex-direction: column;
+    gap: 60px;
+    height: 270px;
+    left: 443px;
+    padding: 15px 62px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .dashboard-elements .text-wrapper-4 {
+    color: #ffffff;
+    font-family: "Open Sans-Regular", Helvetica;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 30px;
+    margin-top: -1px;
+    position: relative;
+    text-align: center;
+    width: fit-content;
+  }
+  
+  .dashboard-elements .box-3 {
+    align-items: center;
+    background-color: #4c5c68;
+    border-radius: 20px;
+    display: inline-flex;
+    flex-direction: column;
+    gap: 57px;
+    height: 270px;
+    left: 898px;
+    padding: 18px 14px;
+    position: absolute;
+    top: 0;
+  }
+  

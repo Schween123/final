@@ -1,0 +1,34 @@
+.boarder-info{
+    align-items: flex-start;
+    background-color: #d9d9d9;
+    border-radius: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0px 900px;
+    padding: 28px 35px;
+    position: relative;
+    width: 1273px;
+}
+
+.boarder-info .text-wrapper{
+    color: #000000;
+    font-family: "Open Sans Hebrew-Regular", Helvetica;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 3px;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+}
+
+.boarder-info .div{
+    color: #46494c;
+    font-family: "Open Sans Hebrew-Light", Helvetica;
+    font-size: 20px;
+    font-weight: 300;
+    letter-spacing: 2px;
+    line-height: normal;
+    position: relative;
+    width: fit-content;
+}
